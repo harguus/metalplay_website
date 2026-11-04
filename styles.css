@@ -57,6 +57,19 @@ header {
     font-size: 1.25rem;
 }
 
+.version-tag {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 3px 8px;
+    background: rgba(59, 130, 246, 0.15);
+    border: 1px solid rgba(59, 130, 246, 0.3);
+    border-radius: 6px;
+    color: #60a5fa;
+    letter-spacing: 0.3px;
+    margin-left: 2px;
+    text-transform: lowercase;
+}
+
 .brand img {
     height: 38px;
     width: auto;
